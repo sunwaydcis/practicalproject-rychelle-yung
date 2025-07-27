@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jul 27 18:08:39 SGT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0198-4b5b-1c06-00000f4bb6d0 
+on database directory C:\Users\AORUS\Documents\GitHub\practicalproject-rychelle-yung\myDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/AORUS/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.7+8-LTS-245
+user.dir=C:\Users\AORUS\Documents\GitHub\practicalproject-rychelle-yung
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
